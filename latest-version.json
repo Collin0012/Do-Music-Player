@@ -4,6 +4,17 @@
   "isUpdateAvailable": null,
   "mandatory": false,
   "releaseUrl": "https://play.google.com/store/apps/details?id=com.smartrevolve.domusic",
-  "releaseNotes": "PlayingNow UI improvements, Bug fixes and audio improvements.",
-  "publishedAt": "2025-10-22T12:00:00Z"
+  "releaseNotes": "🎵 Do Music Player v1.3.0
+- Improved Settings and added more features like (Hide folders, Library filtering, etc.) 
+- Unified loading states across all screens
+- Smart initial load detection with progress feedback
+- Enhanced empty state management
+- Cleaner refresh indicators without dark overlays
+- Improved Settings, Queue, all Screens
+- Smoother scrolling in large music collections
+- Consistent state management across all screens
+- Improved error handling and recovery
+
+Enjoy a faster, more reliable music player! 🎶",
+  "publishedAt": "2025-12-02T12:00:00Z"
 }
